@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @sarahkhatib
-- 👀 I’m interested in MERN and Python (but also any language to be honest).
+- 👀 I’m interested in MERN, Python (pretty much any language to be honest).
 - 📫 Email: sarah.khatib.28@gmail.com
-- ⚡ Fun fact: I'm vegan.
